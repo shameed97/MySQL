@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MySQL</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="enter_id">Enter Id</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+   <string name="dept_stu">Enter Department</string>
+    <string name="login_form">Login Form</string>
+    <string name="create_new">Create New!</string>
+
+
+</resources>
